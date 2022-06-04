@@ -25,6 +25,10 @@ Here are some ideas to get you started:
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyee0715)](https://solved.ac/hyee0715)
 
+<br>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/hyee0715?theme=unicorn&font=Alegreya)
+
 <!--
 ###  :muscle:Skills
 
